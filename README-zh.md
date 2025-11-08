@@ -1,4 +1,9 @@
 # CAST Edu Board 2025
+
+> 这是 CAST Edu Board 2024 的硬件重制版，固件沿用原 AGPL-3.0 开源代码。  
+> 原项目版权：Copyright (C) 2024 ArcticLampyrid, insmtr。  
+> 本硬件改版版权：Copyright (C) 2025 CNVHK, yhy。
+
 Choose your language: 
 - [English](./README.md)
 - [简体中文](./README-zh.md)
@@ -28,6 +33,7 @@ CAST Edu Board 2025 由通院科协（CAST）专为内部教育用途设计。�
 - ADC可调电阻
 - RGB LED灯
 - 蜂鸣器
+- 趣味游戏
 
 ## 演示程序
 
@@ -97,6 +103,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - 固件测试：[ArcticLampyrid](https://alampy.com/), [insmtr](blog.insmtr.cn)
 - 硬件设计：Mian Wang
 [2025]
-- 固件开发：[CNVHK](https://cnvhk.top), [yhy](xxx)
-- 固件测试：[CNVHK](https://cnvhk.top), [yhy](xxx)
+- 固件开发：[CNVHK(ElectroByte)](https://cnvhk.top), [yhy](xxx)
+- 固件测试：[CNVHK(ElectroByte)](https://cnvhk.top), [yhy](xxx)
 - 硬件设计：YuZhe Wang
