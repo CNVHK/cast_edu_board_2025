@@ -1,6 +1,6 @@
 # CAST Edu Board 2025
 
-> 这是 CAST Edu Board 2024 的硬件重制版，固件沿用原 AGPL-3.0 开源代码。  
+> 这是 CAST Edu Board 2024 的更新版，修改了电路设计，更新了更多代码功能。  
 > 原项目版权：Copyright (C) 2024 ArcticLampyrid, insmtr。  
 > 本硬件改版版权：Copyright (C) 2025 CNVHK, yhy。
 
