@@ -2,7 +2,7 @@
 
 > This is an updated version of CAST Edu Board 2024, with revised circuit design and enhanced code features.  
 > Original project copyright: Copyright (C) 2024 ArcticLampyrid, insmtr.  
-> This hardware revision copyright: Copyright (C) 2025 CNVHK, yhy.
+> This hardware revision copyright: Copyright (C) 2025 CNVHK, YHY.
 
 Choose your language:  
 - [English](./README.md)  
@@ -19,8 +19,8 @@ You may use this project for any purpose, provided you comply with the license r
 ## Hardware
 
 ### Preview
-![PCB Front Preview](./docs/BoardFront.png)  
-![PCB Back Preview](./docs/BoardBack.png)
+![PCB Front Preview](./docs/BoardFront.jpg)  
+![PCB Back Preview](./docs/BoardBack.jpg)
 
 ### Schematic
 ![Schematic](./docs/Schematic.svg)
@@ -108,6 +108,7 @@ If you redistribute or modify this project, please **change the project name** a
 - Hardware design: Mian Wang  
 
 [2025]  
-- Firmware development: [CNVHK (ElectroByte)](https://cnvhk.top), [yhy](xxx)  
-- Firmware testing: [CNVHK (ElectroByte)](https://cnvhk.top), [yhy](xxx)  
+
+- Firmware development: [CNVHK (ElectroByte)](https://cnvhk.top), YHY
+- Firmware testing: [CNVHK (ElectroByte)](https://cnvhk.top), YHY
 - Hardware design: YuZhe Wang

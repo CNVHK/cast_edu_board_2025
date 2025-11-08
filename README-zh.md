@@ -2,7 +2,7 @@
 
 > 这是 CAST Edu Board 2024 的更新版，修改了电路设计，更新了更多代码功能。  
 > 原项目版权：Copyright (C) 2024 ArcticLampyrid, insmtr。  
-> 本硬件改版版权：Copyright (C) 2025 CNVHK, yhy。
+> 本硬件改版版权：Copyright (C) 2025 CNVHK, YHY。
 
 Choose your language: 
 - [English](./README.md)
@@ -18,8 +18,8 @@ CAST Edu Board 2025 由通院科协（CAST）专为内部教育用途设计。�
 ## 硬件
 
 ### 预览
-![PCB Front Preview](./docs/BoardFront.png)  
-![PCB Back Preview](./docs/BoardBack.png)
+![PCB Front Preview](./docs/BoardFront.jpg)  
+![PCB Back Preview](./docs/BoardBack.jpg)
 
 ### 原理图
 ![Schematic](./docs/Schematic.svg)
@@ -99,10 +99,13 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## 作者
 [2024]
+
 - 固件开发：[ArcticLampyrid](https://alampy.com/), [insmtr](blog.insmtr.cn)
 - 固件测试：[ArcticLampyrid](https://alampy.com/), [insmtr](blog.insmtr.cn)
 - 硬件设计：Mian Wang
+
 [2025]
-- 固件开发：[CNVHK(ElectroByte)](https://cnvhk.top), [yhy](xxx)
-- 固件测试：[CNVHK(ElectroByte)](https://cnvhk.top), [yhy](xxx)
+
+- 固件开发：[CNVHK(ElectroByte)](https://cnvhk.top), YHY
+- 固件测试：[CNVHK(ElectroByte)](https://cnvhk.top), YHY
 - 硬件设计：YuZhe Wang
